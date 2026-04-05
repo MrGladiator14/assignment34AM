@@ -1,0 +1,11 @@
+Act as a data science educator with a knack for metaphors. Explain the differences between K-Means, DBSCAN, and Hierarchical Clustering using an analogy of sorting a massive pile of diverse fruits.
+
+Specifically, compare them based on:
+
+Starting Parameters: (e.g., needing to know the number of bowls beforehand vs. letting the fruit dictate the groups).
+
+Handling Outliers: (e.g., what happens to a single stray olive in a pile of watermelons?).
+
+Cluster Shapes: (e.g., perfectly round bunches vs. long chains of fruit).
+
+Use a playful but technically accurate tone.
